@@ -1,0 +1,12 @@
+ver:1
+type:0
+image:player1.png
+width:33
+height:25
+moveFrames:1
+idleFrames:1
+moveAnimationSpeed:1
+idleAnimationSpeed:1
+hitBoxTL:0,0
+hitBoxBR:10,10
+moveSpeed:2

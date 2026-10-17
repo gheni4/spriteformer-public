@@ -1,0 +1,9 @@
+ver:1
+type:1
+image:seashell1.png
+z:5
+width:3
+height:2
+hitBox:
+011
+111

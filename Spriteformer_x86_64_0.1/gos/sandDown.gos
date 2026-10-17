@@ -1,0 +1,13 @@
+ver:1 
+type:1
+image:sandDown.png
+z:5
+width:6
+height:6
+hitBox:
+100000
+110000
+111000
+111100
+111110
+111111
